@@ -2836,7 +2836,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Awooooof! (Wait, you can understand me? I guess this is my opportunity
-    to break the fourth wall just like in the real Earthbound. Professor Crosby,
+    to break the fourth wall just like in the real Earthbound. Professor Crosbie,
     please let Kevin pass this class! He really needs to graduate!)
 --- !u!222 &187015013
 CanvasRenderer:
@@ -24317,7 +24317,7 @@ MonoBehaviour:
   textBox: {fileID: 187015010}
   textComponent: {fileID: 187015012}
   textToDisplay: Awooooof! (Wait, you can understand me? I guess this is my opportunity
-    to break the fourth wall just like in the real Earthbound. Professor Crosby,
+    to break the fourth wall just like in the real Earthbound. Professor Crosbie,
     please let Kevin pass this class! He really needs to graduate!)
   image: {fileID: 767813684}
 --- !u!1001 &2018874687
