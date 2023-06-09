@@ -24390,7 +24390,7 @@ MonoBehaviour:
   textComponent: {fileID: 187015012}
   textToDisplay: Awooooof! (Wait, you can understand me? I guess this is my opportunity
     to break the fourth wall just like in the real Earthbound. Professor Crosbie,
-    please let Kevin pass this class! He really needs to graduate!)
+    I think Kevin definitely deserves a good grade on this one!)
   image: {fileID: 767813684}
 --- !u!1001 &2018874687
 PrefabInstance:
