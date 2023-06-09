@@ -2839,7 +2839,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: Awooooof! (Wait, you can understand me? I guess this is my opportunity
     to break the fourth wall just like in the real Earthbound. Professor Crosbie,
-    please let Kevin pass this class! He really needs to graduate!)
+    I think Kevin definitely deserves a good grade on this one!)
 --- !u!222 &187015013
 CanvasRenderer:
   m_ObjectHideFlags: 0
